@@ -112,14 +112,14 @@ The environment will continue to expand with Active Directory, DNS, DHCP, Group 
 
 ## Repository Structure
 
-    enterprise-home-lab/
-    │
-    ├── README.md
-    ├── 01-planning/
-    ├── 02-server-build/
-    ├── 03-proxmox-installation/
-    ├── 04-windows-server-deployment/
-    └── images/
+enterprise-home-lab/
+│
+├── README.md
+├── COPYRIGHT.md
+├── 01-planning/
+├── 02-server-build/
+├── 03-proxmox-installation/
+└── 04-windows-server-deployment/
 
 Additional sections will be added as the lab develops.
 
@@ -142,3 +142,11 @@ This repository is intended to demonstrate both the implementation process and t
 **Jeremiah Adesina**
 
 IT Infrastructure | Systems Administration | Networking | Azure
+
+---
+
+## Copyright
+
+© 2026 Jeremiah Adesina. All rights reserved.
+
+This repository documents my personal enterprise home lab and is provided for educational and portfolio purposes. The documentation, photographs, screenshots, diagrams, and other original content in this repository may not be reproduced, redistributed, or used without permission.
